@@ -1,7 +1,7 @@
 package org.javaboy.mailserver;
 
 /**
- * @Description:
+ * @Description:Test
  * @Author: chenwei
  * @CreateDate: 2020/1/9
  */
